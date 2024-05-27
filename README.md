@@ -20,16 +20,16 @@ To gain insights into the sales performance and purchasing patterns for January 
     - Top 10 Products with the Most Orders: Analyzing the top ten products with the highest number of orders will help identify the best-selling items.
     - Top 5 Retailers Receiving the Most Orders: Understanding the top five retailers receiving the highest number of orders will provide insights into the leading players in the market.
   
-3. Promotion Effectiveness:
+3. **Promotion Effectiveness**:
   Assessing promotion effectiveness involves two key metrics:
     - Promotion Effectiveness Based on Average Order Value: By comparing the average order value before, during, and after promotions, we can gauge the effectiveness of promotional activities.
     - Comparison of Orders between High Value and Low Value: Comparing the number of orders for high and low-value products will help us understand customer preferences and the impact of promotions on different product segments.
 
-4. Delivery Quality:
+4. **Delivery Quality**:
   Evaluating delivery quality entails examining two main aspects:
     - Pie Chart of Delivery Status: Visualizing delivery status in a pie chart format will allow us to assess the quality of deliveries and identify any areas for improvement.
     - Number of Canceled Orders by Category: Analyzing the number of canceled orders for each product category will provide insights into the reasons for cancellations and potential areas for improvement in the delivery process.
-5. Product and Brand Performance:
+5. **Product and Brand Performance**:
   Assessing product and brand performance involves the following analyses:
     - Top 4 Brands with the Fewest Orders: Identifying the top four brands with the lowest number of orders will help us evaluate brand performance and identify areas for improvement.
     - Top 8 Product Codes with the Fewest Purchases: Examining the top eight product codes with the lowest number of purchases will provide insights into product performance and potential areas for optimization.
